@@ -75,7 +75,7 @@
                      alt="{{ $administrative->directorName }}"
                      class="director-photo img-fluid mb-3" style="max-width:200px;">
               </a>
-              <h5 class="fw-bold mb-1" style="color:#E46705;">{{ $administrative->directorName }}</h5>
+              <h5 class="fw-bold mb-1" style="color:#8b0000;">{{ $administrative->directorName }}</h5>
               <p class="text-muted mb-0">Diretor(a) Geral Adjunta para Área Administrativa</p>
               <div class="mt-2">
                 <a href="{{ route('frontend.directors.show', $administrative->id) }}" class="btn btn-sm btn-primary">Perfil</a>
@@ -90,7 +90,7 @@
                      alt="{{ $general->directorName }}"
                      class="director-photo img-fluid mb-3" style="max-width:200px;">
               </a>
-              <h5 class="fw-bold mb-1" style="color:#E46705;">{{ $general->directorName }}</h5>
+              <h5 class="fw-bold mb-1" style="color:#8b0000;">{{ $general->directorName }}</h5>
               <p class="text-muted mb-0">Diretor(a) Geral</p>
               <div class="mt-2">
                 <a href="{{ route('frontend.directors.show', $general->id) }}" class="btn btn-sm btn-primary">Perfil</a>
@@ -105,7 +105,7 @@
                      alt="{{ $technical->directorName }}"
                      class="director-photo img-fluid mb-3" style="max-width:200px;">
               </a>
-              <h5 class="fw-bold mb-1" style="color:#E46705;">{{ $technical->directorName }}</h5>
+              <h5 class="fw-bold mb-1" style="color:#8b0000;">{{ $technical->directorName }}</h5>
               <p class="text-muted mb-0">Diretor(a) Geral Adjunto para Área Técnica</p>
               <div class="mt-2">
                 <a href="{{ route('frontend.directors.show', $technical->id) }}" class="btn btn-sm btn-primary">Perfil</a>

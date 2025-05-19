@@ -68,7 +68,7 @@
           margin-top: 5px;
           font-size: 14px;
           font-weight: bold;
-          color: #f27602;
+          color: #8B0000;
        }
        .restricted-desktop {
           display: none;
@@ -113,7 +113,7 @@
           class="ttm-btn ttm-btn-size-md ttm-btn-shape-square ttm-btn-style-border ttm-btn-color-black"
           href="{{ route('dashboard') }}"
           style="width: 50px; height: 50px; border-radius: 50% !important; display: inline-flex; align-items: center; justify-content: center; padding: 0 !important;">
-         <i class="fa fa-user" style="color: #f27602; font-size: 20px; padding: 8px; border: 2px solid #f27602; border-radius: 50%;"></i>
+         <i class="fa fa-user" style="color: #8B0000; font-size: 20px; padding: 8px; border: 2px solid #8B0000; border-radius: 50%;"></i>
        </a>
        <!-- botão para a Área Restrita -->
        <div id="restricted-tooltip" style="
@@ -130,7 +130,7 @@
              font-size: 12px;
              box-shadow: 0 2px 5px rgba(0,0,0,0.2);
              z-index: 2000;">
-         Área restrita (só para funcionários do INFOSI)
+         Login Logout)
        </div>
      </div>
    </div>
@@ -147,22 +147,19 @@
      <!-- Botão de área restrita no mobile -->
      <div class="restricted-mobile">
        <a href="{{ route('dashboard') }}" 
-          style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border: 2px solid #f27602; border-radius: 50%; margin: 0 auto;">
-         <i class="fa fa-user" style="color: #f27602; font-size: 20px; padding: 8px;"></i>
+          style="display: inline-flex; align-items: center; justify-content: center; width: 50px; height: 50px; border: 2px solid #8B0000; border-radius: 50%; margin: 0 auto;">
+         <i class="fa fa-user" style="color: #8B0000; font-size: 20px; padding: 8px;"></i>
        </a>
-       <span class="restricted-label">Área Restrita</span>
+       <span class="restricted-label">Area de Login</span>
      </div>
      <ul class="dropdown">
        <li class="active"><a href="{{ route('frontend.index') }}">Início</a></li>
        <li class="has-submenu">
          <a href="#">Sobre Nós</a>
          <ul class="sub-menu">
-            <li><a href="{{ route('frontend.about') }}">Sobre o INFOSI</a></li>
-            <li><a href="{{ route('frontend.statute') }}">Nosso Estatuto</a></li>
-            <li><a href="{{ route('frontend.directors') }}">Nossa Diretoria</a></li>
+            <li><a href="{{ route('frontend.about') }}">Sobre a Dai Filmes</a></li>
           </ul>
        </li>
-       <li><a href="{{ route('frontend.index') }}#services">Nossos Serviços</a></li>
        <li><a href="#contact-anchor">Contato</a></li>
      </ul>
    </nav>

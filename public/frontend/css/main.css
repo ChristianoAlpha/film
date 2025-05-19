@@ -72,12 +72,12 @@ a:focus {
     text-decoration: none; 
 }
 a:focus, a:hover { 
-    color: #E46705; 
+    color: #8b0000; 
     text-decoration: none; 
 }
 a, button, input { 
     outline: medium none; 
-    color: #E46705; 
+    color: #8b0000; 
 }
 ol, ul{ 
     padding: 0; 
@@ -97,17 +97,17 @@ p {
 }
 
 *::-moz-selection { 
-    background: #E46705; 
+    background: #8b0000; 
     color: #fff; 
     text-shadow: none; 
 }
 ::-moz-selection { 
-    background: #E46705; 
+    background: #8b0000; 
     color: #fff;
     text-shadow: none; 
 }
 ::selection { 
-    background: #E46705; 
+    background: #8b0000; 
     color: #fff; 
     text-shadow: none; 
 }
@@ -580,12 +580,12 @@ ul.ttm-our-location-list li i,
 .ttm-textcolor-skincolor a, .featured-icon-box.style14 .featured-desc p,
 .featured-imagebox-portfolio-style1 .featured-title h5 a:hover,
 .ttm-blog-classic .ttm-blog-classic-content blockquote:before{
-  color: #E46705;
+  color: #8b0000;
 }
 
 h1.ttm-textcolor-skincolor, h2.ttm-textcolor-skincolor, h3.ttm-textcolor-skincolor, 
 h4.ttm-textcolor-skincolor, h5.ttm-textcolor-skincolor, h6.ttm-textcolor-skincolor {
-  color: #E46705 !important;
+  color: #8b0000 !important;
 }
 
 /** Skin-bg-color **/
@@ -660,7 +660,7 @@ a.checkout-button:hover, .coupon button:hover, .ttm-cart-form button:hover, .pla
 .services-slide.owl-theme .owl-controls .owl-nav div:hover,
 .featured-imagebox-team.style2:hover .ttm-team-box-view-overlay,
 .color-trigger{
-  background-color: #E46705;
+  background-color: #8b0000;
 }
 
 /** Skin-border-color **/
@@ -700,7 +700,7 @@ input[type="color"]:focus,
 .ttm-tabs ul.tabs li.active a,
 .ttm-blog-classic .ttm-blog-classic-content  blockquote,
 .ttm-header-icons .ttm-header-search-link a:hover{ 
-    border-color: #E46705 !important;
+    border-color: #8b0000 !important;
 }
 .ttm-search-overlay,
 #site-header-menu #site-navigation .menu > ul,
@@ -708,15 +708,15 @@ input[type="color"]:focus,
 .ttm-rounded-shadow-box, div.product ul.tabs li.active a:before,
 .coupon_toggle .coupon_code,
 #payment .payment_box{
-    border-top-color: #E46705 !important; 
+    border-top-color: #8b0000 !important; 
 }
 .featured-imagebox-portfolio.ttm-box-view-top-image:hover .ttm-box-bottom-content:before{
-  border-color: transparent transparent #E46705 transparent;
+  border-color: transparent transparent #8b0000 transparent;
 }
 .ttm-search-overlay .w-search-form-row:before,
 .featured-icon-box.style11,
 .testimonials.style2 .testimonial-content{ 
-  border-bottom-color: #E46705 !important; 
+  border-bottom-color: #8b0000 !important; 
 }
 
 

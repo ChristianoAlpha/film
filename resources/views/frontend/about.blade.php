@@ -5,10 +5,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="keywords" content="HTML5 Template" />
-  <meta name="description" content="INFOSI Recursos Humanos" />
-  <meta name="author" content="INFOSI" />
+  <meta name="description" content="DAI-FILMES: Seu portal de cinema online" />
+  <meta name="author" content="DAI-FILMES" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-  <title>Sobre o INFOSI - INFOSI</title>
+  <title>Sobre a DAI-FILMES - DAI-FILMES</title>
   <link rel="shortcut icon" href="{{ asset('auth/img/infosi3.png') }}" />
 
   <!-- CSS -->
@@ -40,23 +40,23 @@
   <div class="page">
     <div class="container my-4">
       <div class="text-center">
-        <h2 style="font-weight: bold;">Sobre o INFOSI</h2>
+        <h2 style="font-weight: bold;">Sobre a DAI-FILMES</h2>
         <p style="max-width: 800px; margin: 0 auto;">
-          O <strong>Instituto Nacional de Fomento da Sociedade da Informação (INFOSI)</strong> impulsiona a inovação e a inclusão digital em Angola, atuando como agente transformador nos serviços públicos de TI e telecomunicações.
+          A <strong>DAI-FILMES</strong> é a plataforma definitiva para amantes de cinema, oferecendo milhares de filmes e séries em alta qualidade, disponíveis 24 horas por dia, onde você estiver.
         </p>
       </div>
 
       <div class="mt-4">
         <h3 style="font-weight: bold; text-align: center;">Missão</h3>
         <p style="text-align: justify; margin-top: 20px;">
-          O INFOSI tem por missão a execução e distribuição dos serviços públicos de tecnologias de informação e de telecomunicações administrativas, conforme as diretrizes do Executivo. Essa missão abrange a implementação de políticas que promovam o desenvolvimento, o conhecimento e a inclusão digital em todo o país.
+          Nossa missão é aproximar você do melhor do entretenimento audiovisual, proporcionando uma experiência de streaming simples, rápida e acessível, com conteúdos para todas as preferências.
         </p>
       </div>
 
       <div class="mt-4">
-        <h3 style="font-weight: bold; text-align: center;">Histórico</h3>
+        <h3 style="font-weight: bold; text-align: center;">História</h3>
         <p style="text-align: justify; margin-top: 20px;">
-          O INFOSI foi criado a 20 de Abril de 2016, através do Decreto Presidencial nº 86/16, como resultado da fusão do Centro Nacional das Tecnologias de Informação (CNTI) e do Instituto de Telecomunicações Administrativas (INATEL). Com sede em Luanda e atuação em todo o território nacional, o INFOSI tem se consolidado como um pilar estratégico para a modernização das infraestruturas de TI e telecomunicações.
+          Fundada em 2023, a DAI-FILMES nasceu da paixão por contar histórias. Em poucos meses, conquistamos milhares de usuários em todo o mundo, sempre inovando em tecnologia e curadoria de conteúdos para garantir maratonas inesquecíveis.
         </p>
       </div>
     </div>

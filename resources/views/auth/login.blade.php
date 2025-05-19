@@ -11,13 +11,13 @@
             <div class="fxt-inner-wrap">
                 <div class="fxt-transformY-50 fxt-transition-delay-3">
                     <a href="{{ route('login') }}" class="fxt-logo">
-                        <img src="{{ asset('auth/img/infosi3.png') }}" alt="Logo">
+                        <img src="{{ asset('auth/img/dailogo.png') }}" alt="Logo">
                     </a>
                 </div>
                 <div class="fxt-transformY-50 fxt-transition-delay-4">
-                    <h1 class="fxt-main-title">Seja bem-vindo ao RH do INFOSI!</h1>
+                    <h1 class="fxt-main-title">Seja bem-vindo a DAI FILMES!</h1>
                 </div>
-                <div class="fxt-login-option">
+                {{-- <div class="fxt-login-option">
                     <ul>
                         <li class="fxt-transformY-50 fxt-transition-delay-6">
                             <a href="https://infosi.gov.ao" target="_blank" rel="noopener noreferrer">
@@ -35,7 +35,7 @@
                             </a>
                         </li>
                     </ul>
-                </div>
+                </div> --}}
             </div>
         </div>
 

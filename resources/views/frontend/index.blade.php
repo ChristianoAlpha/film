@@ -17,89 +17,38 @@
                data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                class="rev-slidebg" data-no-retina>
           <!-- CAMADAS DO SLIDE 1 -->
-          <!-- LAYER NR. 1 -->
           <div class="tp-caption ttm-textcolor-skincolor tp-resizeme" id="slide-1-layer-1"
                data-x="['left','left','center','center']" data-hoffset="['50','50','-628','-684']"
                data-y="['top','top','middle','middle']" data-voffset="['159','159','-116','46']"
                data-fontsize="['14','14','12','11']" data-fontweight="['600','600','700','700']"
-               data-width="none" data-height="none" data-whitespace="nowrap"
-               data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
-               data-frames='[{"delay":140,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-            AJUDANDO VOCÊ A IMPULSIONAR A TRANSFORMAÇÃO
+               data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
+               data-frames='[{"delay":140,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+            ENTRE EM UMA NOVA JORNADA COM A DAI FILMES
           </div>
-          <!-- LAYER NR. 2 -->
           <div class="tp-caption tp-resizeme" id="slide-1-layer-2"
                data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
                data-y="['top','top','middle','middle']" data-voffset="['185','185','-107','-87']"
-               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']"
-               data-fontweight="['700','700','700','700']"
-               data-color="['rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)']"
-               data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":380,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-              Conectando Angola ao 
+               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']"
+               data-color="['rgb(255,255,255)']" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+               data-frames='[{"delay":380,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+            
           </div>
-          <!-- LAYER NR. 3 -->
           <div class="tp-caption tp-resizeme" id="slide-1-layer-3"
                data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
                data-y="['top','top','middle','middle']" data-voffset="['257','257','-46','-38']"
-               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']"
-               data-fontweight="['700','700','700','700']"
-               data-color="['rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)']"
-               data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":540,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-               FUTURO   <strong class="ttm-textcolor-skincolor">DIGITAL</strong>
+               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']"
+               data-color="['rgb(255,255,255)']" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+               data-frames='[{"delay":540,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+            DAI FILMES PARA TODOS
           </div>
-          <!-- LAYER NR. 4 -->
-          <div class="tp-caption tp-resizeme" id="slide-1-layer-4"
-               data-x="['left','left','center','center']" data-hoffset="['50','50','-702','-702']"
-               data-y="['top','top','middle','middle']" data-voffset="['350','350','247','247']"
-               data-fontsize="['16','16','14','14']" data-lineheight="['26','26','24','24']"
-               data-fontweight="['400','400','400','400']"
-               data-color="['rgb(222,222,222)','rgb(222,222,222)','rgb(222,222,222)','rgb(222,222,222)']"
-               data-width="none" data-height="none" data-whitespace="nowrap"
-               data-visibility="['on','on','off','off']" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":830,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','center','center']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-               Oferecemos recursos, ferramentas e suporte para impulsionar a transformação digital no setor público e privado
-          </div>
-          <!-- LAYER NR. 5 -->
-          <a class="tp-caption skin-flat-button tp-resizeme" href="#services " target="_self"
-             id="slide-1-layer-5"
+          <a class="tp-caption skin-flat-button tp-resizeme" href="#services" target="_self" id="slide-1-layer-5"
              data-x="['left','left','center','center']" data-hoffset="['50','50','0','0']"
              data-y="['top','top','middle','middle']" data-voffset="['452','452','39','31']"
-             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']"
-             data-fontweight="['700','700','700','700']"
-             data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-             data-responsive_offset="on"
-             data-frames='[{"delay":910,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-             data-textAlign="['inherit','inherit','inherit','inherit']"
-             data-paddingtop="[16,16,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[16,16,14,12]" data-paddingleft="[35,35,30,25]">
-            NOSSOS SERVIÇOS
+             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']" data-fontweight="['700']"
+             data-type="text" data-responsive_offset="on"
+             data-frames='[{"delay":910,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+            VER MAIS
           </a>
-          <!-- LAYER NR. 6 
-          <a class="tp-caption white-flatborder-button tp-resizeme" href="#" target="_self"
-             id="slide-1-layer-6"
-             data-x="['left','left','center','center']" data-hoffset="['231','231','0','0']"
-             data-y="['top','top','middle','middle']" data-voffset="['452','452','101','82']"
-             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']"
-             data-fontweight="['700','700','700','700']"
-             data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-             data-responsive_offset="on"
-             data-frames='[{"delay":990,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-             data-textAlign="['inherit','inherit','inherit','inherit']"
-             data-paddingtop="[15,15,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[15,15,14,12]" data-paddingleft="[35,35,30,25]">
-            RETORNO RÁPIDO
-          </a> -->
         </li>
         <!-- SLIDE 2 -->
         <li data-index="rs-12" data-transition="fade" data-slotamount="default"
@@ -107,167 +56,50 @@
             data-easein="default" data-easeout="default" data-masterspeed="300"
             data-thumb="{{ asset('frontend/images/slides/slider-mainbg-007.jpg') }}"
             data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
-          <!-- IMAGEM PRINCIPAL -->
           <img src="{{ asset('frontend/images/slides/slider-mainbg-007.jpg') }}" alt="" title="Home 1"
                data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                class="rev-slidebg" data-no-retina>
-          <!-- CAMADAS DO SLIDE 2 -->
-          <!-- LAYER NR. 7 -->
           <div class="tp-caption tp-resizeme ttm-textcolor-skincolor" id="slide-2-layer-1"
                data-x="['center','center','center','center']" data-hoffset="['0','0','-628','-684']"
                data-y="['middle','middle','middle','middle']" data-voffset="['-149','-149','-116','46']"
-               data-fontsize="['14','14','12','11']" data-lineheight="['14','14','14','14']"
-               data-fontweight="['600','600','700','700']"
-               data-width="none" data-height="none" data-whitespace="nowrap"
-               data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
-               data-frames='[{"delay":140,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-            CONSULTORIA EMPRESARIAL
+               data-fontsize="['14','14','12','11']" data-fontweight="['600','600','700','700']"
+               data-whitespace="nowrap" data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
+               data-frames='[{"delay":140,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+            
           </div>
-          <!-- LAYER NR. 8 -->
-         <div class="tp-caption tp-resizeme" id="slide-2-layer-2"
+          <div class="tp-caption tp-resizeme" id="slide-2-layer-2"
                data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                data-y="['top','top','middle','middle']" data-voffset="['233','233','-77','-60']"
-               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']"
-               data-fontweight="['700','700','700','700']"
-               data-color="['rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)']"
-               data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":370,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                Estratégia, inovação e resultados para o
+               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']" data-fontweight="['700','700','700','700']"
+               data-color="['rgb(255,255,255)']" data-whitespace="nowrap" data-type="text" data-responsive_offset="on"
+               data-frames='[{"delay":370,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+          
           </div>
-          <!-- LAYER NR. 9 -->
-          <div class="tp-caption tp-resizeme" id="slide-2-layer-3"
-               data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-               data-y="['top','top','middle','middle']" data-voffset="['307','307','-16','-11']"
-               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']"
-               data-fontweight="['700','700','700','700']"
-               data-color="['rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)','rgb(255,255,255)']"
-               data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":640,"speed":800,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-            Seu Negócio
-          </div>
-          <!-- LAYER NR. 10 -->
-          <a class="tp-caption tp-resizeme skin-flat-button" href="#services " target="_self"
-             id="slide-2-layer-4"
+          <a class="tp-caption tp-resizeme skin-flat-button" href="#services" target="_self" id="slide-2-layer-4"
              data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
              data-y="['middle','middle','middle','middle']" data-voffset="['77','77','69','58']"
-             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']"
-             data-fontweight="['700','700','700','700']"
-             data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-             data-responsive_offset="on"
-             data-frames='[{"delay":1070,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-             data-textAlign="['inherit','inherit','inherit','inherit']"
-             data-paddingtop="[16,16,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[16,16,14,12]" data-paddingleft="[35,35,30,25]">
-            NOSSOS SERVIÇOS
+             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']" data-fontweight="['700']"
+             data-type="text" data-responsive_offset="on"
+             data-frames='[{"delay":1070,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;"}]'>
+            VER MAIS
           </a>
         </li>
         <!-- SLIDE 3 -->
         <li data-index="rs-14" data-transition="fade" data-slotamount="default"
             data-hideafterloop="0" data-hideslideonmobile="off"
             data-easein="default" data-easeout="default" data-masterspeed="300"
-            data-thumb="{{ asset('frontend/images/slides/slider-mainbg-004.jpg') }}"
+            data-thumb="{{ asset('frontend/images/slides/slider-mainbg-008.jpg') }}"
             data-rotate="0" data-saveperformance="off" data-title="Slide" data-description="">
-          <!-- IMAGEM PRINCIPAL -->
-          <img src="{{ asset('frontend/images/slides/slider-mainbg-004.jpg') }}" alt="" title="Home 1"
+          <img src="{{ asset('frontend/images/slides/slider-mainbg-008.jpg') }}" alt="" title="Home 1"
                data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                class="rev-slidebg" data-no-retina>
-          <!-- CAMADAS DO SLIDE 3 -->
-          <!-- LAYER NR. 11 -->
-          <div class="tp-caption tp-resizeme ttm-textcolor-skincolor" id="slide-3-layer-1"
-               data-x="['center','center','center','center']" data-hoffset="['64','-16','-628','-684']"
-               data-y="['middle','middle','middle','middle']" data-voffset="['-194','-174','-116','46']"
-               data-fontsize="['15','15','12','11']" data-lineheight="['15','15','14','14']"
-               data-fontweight="['600','600','700','700']"
-               data-width="none" data-height="none" data-whitespace="nowrap"
-               data-visibility="['on','on','off','off']" data-type="text" data-responsive_offset="on"
-               data-frames='[{"delay":210,"speed":500,"frame":"0","from":"x:[175%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-            TRANSFORMAÇÃO COM PROPÓSITO
-          </div>
-          <!-- LAYER NR. 12 -->
-          <div class="tp-caption tp-resizeme" id="slide-3-layer-2"
-               data-x="['center','center','center','center']" data-hoffset="['167','87','0','0']"
-               data-y="['middle','middle','middle','middle']" data-voffset="['-141','-121','-102','-86']"
-               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']"
-               data-fontweight="['700','700','700','700']"
-               data-color="['rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)']"
-               data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":330,"speed":800,"frame":"0","from":"x:[175%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-            Gestão e  Planejamento para
-          </div>
-          <!-- LAYER NR. 13 -->
-          <div class="tp-caption tp-resizeme" id="slide-3-layer-3"
-               data-x="['center','center','center','center']" data-hoffset="['280','200','0','0']"
-               data-y="['top','top','middle','middle']" data-voffset="['256','256','-41','-37']"
-               data-fontsize="['60','60','50','40']" data-lineheight="['75','75','75','60']"
-               data-fontweight="['700','700','700','700']"
-               data-color="['rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)','rgb(5, 6, 43)']"
-               data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":500,"speed":800,"frame":"0","from":"x:[175%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','inherit','inherit']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-               uma Sociedade Conectada
-          </div>
-          <!-- LAYER NR. 14 -->
-          <div class="tp-caption tp-resizeme" id="slide-3-layer-4"
-               data-x="['center','center','center','center']" data-hoffset="['227','147','-702','-702']"
-               data-y="['middle','middle','middle','middle']" data-voffset="['6','6','247','247']"
-               data-fontsize="['17','17','14','14']" data-lineheight="['26','26','24','24']"
-               data-fontweight="['400','400','400','400']"
-               data-color="['rgb(46, 50, 54)','rgb(46,50,54)','rgb(222,222,222)','rgb(222,222,222)']"
-               data-width="none" data-height="none" data-whitespace="nowrap"
-               data-visibility="['on','on','off','off']" data-type="text"
-               data-responsive_offset="on"
-               data-frames='[{"delay":890,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-               data-textAlign="['inherit','inherit','center','center']"
-               data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-               Fomentando a inovação e a inclusão digital em Angola, Impulsionando o desenvolvimento e a modernização do país
-          </div>
-          <!-- LAYER NR. 15 -->
-          <a class="tp-caption tp-resizeme black-flatborder-button" href="#services " target="_self"
-             id="slide-3-layer-5"
-             data-x="['center','center','center','center']" data-hoffset="['83','3','0','0']"
-             data-y="['middle','middle','middle','middle']" data-voffset="['96','96','46','34']"
-             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']"
-             data-fontweight="['700','700','700','700']"
-             data-width="none" data-height="none" data-whitespace="nowrap"
-             data-type="text" data-responsive_offset="on"
-             data-frames='[{"delay":1000,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-             data-textAlign="['inherit','inherit','inherit','inherit']"
-             data-paddingtop="[15,15,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[15,15,14,12]" data-paddingleft="[35,35,30,25]">
-            NOSSOS SERVIÇOS
-          </a>
-          <!-- LAYER NR. 16 -->
-          
-          <a class="tp-caption tp-resizeme skin-flat-button" href="#contact-anchor" target="_self"
-             id="slide-3-layer-6"
-             data-x="['center','center','center','center']" data-hoffset="['266','186','0','0']"
-             data-y="['middle','middle','middle','middle']" data-voffset="['96','96','103','87']"
-             data-fontsize="['13','13','12','11']" data-lineheight="['13','13','12','11']"
-             data-fontweight="['700','700','700','700']"
-             data-width="none" data-height="none" data-whitespace="nowrap"
-             data-type="text" data-responsive_offset="on"
-             data-frames='[{"delay":1120,"speed":500,"frame":"0","from":"y:[100%];opacity:0;","to":"o:1;","ease":"Power0.easeIn"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-             data-textAlign="['inherit','inherit','inherit','inherit']"
-             data-paddingtop="[16,16,14,12]" data-paddingright="[35,35,30,25]" data-paddingbottom="[16,16,14,12]" data-paddingleft="[35,35,30,25]">
-            CONTATE-NOS
-          </a>
+          <!-- Sem texto nesta camada -->
         </li>
       </ul>
     </div>
   </div>
+
+
   <style>
                 .tp-leftarrow, .tp-rightarrow {
                   margin: 0 10px;
@@ -427,7 +259,7 @@
           <div class="row">
             <!-- Título "Departamentos" em laranja -->
             <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-              <h3 style="color: #E46705; font-size: 24px;">Departamentos</h3>
+              <h3 style="color: #8b0000; font-size: 24px;">TRAILLERS E FILMES</h3>
             </div>
             <!-- Carrossel de Serviços -->
             <div class="services-slide owl-carousel owl-theme" data-item="3" data-nav="false" data-dots="false" data-auto="false">
@@ -605,7 +437,13 @@
         </div>
       </div>
     </section>
-    <!-- Fim da Seção "Sobre a Consultoria" --> --}}
+    <!-- Fim da Seção "Sobre a Consultoria" --> 
+
+
+
+
+
+
 
    <!-- Seção de Serviços -->
 <section id="services" class="ttm-row ttm-bgcolor-darkgrey ttm-bg ttm-bgimage-yes bg-img1 services-section clearfix">
@@ -737,7 +575,7 @@
 
 <!-- Fim da Seção de Serviços -->
 
-    
+    --}}
 
     
   </div>

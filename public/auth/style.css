@@ -3461,22 +3461,22 @@ ul {
   flex: 1;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-facebook a {
-  background-color: #3b5998;
+  background-color: #fd1818;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-facebook a i {
-  background-color: #4867aa;
+  background-color: #fd1818;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-facebook a:hover {
-  background-color: #5676bb;
+  background-color: #fd1818;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-twitter a {
-  background-color: #00acee;
+  background-color: #fd1818;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-twitter a i {
-  background-color: #33ccff;
+  background-color: #fd1818;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-twitter a:hover {
-  background-color: #3dc5f3;
+  background-color: #fd1818;
 }
 .fxt-template-layout7 ul.fxt-socials li.fxt-google a {
   background-color: #CC3333;
@@ -14292,7 +14292,7 @@ ul {
 .fxt-template-layout31 .fxt-shape {
   height: 100%;
   width: calc((100vw + 220px)/4);
-  background-color: #1a3d8f;
+  background-color: #8b0000;
   content: "";
   left: 0;
   top: 0;
@@ -14704,8 +14704,8 @@ ul {
   transition: all 0.3s ease-in-out;
 }
 .fxt-template-layout31 .fxt-form-content .fxt-btn-fill:hover {
-  background-color: #0d42be;
-  border-color: #0d42be;
+  background-color: #f08080;
+  border-color: #f08080;
 }
 .fxt-template-layout31 .fxt-form-content .fxt-btn-fill:focus {
   outline: none;
